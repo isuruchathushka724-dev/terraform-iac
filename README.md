@@ -19,12 +19,14 @@ Manually setting up cloud infrastructure is slow, error-prone, and hard to repli
 
 ## 📁 Project Structure
 
+```
 terraform-iac/
 ├── main.tf       # Main infrastructure configuration
 ├── variables.tf  # Input variables
 ├── outputs.tf    # Output values
 ├── .gitignore    # Ignored files (state, secrets)
 └── README.md     # Project documentation
+```
 
 ## 🚀 Usage
 
